@@ -69,4 +69,5 @@ class NumberList extends Component {
     }
 }
 
+// console.log("show");
 export default NumberList;
